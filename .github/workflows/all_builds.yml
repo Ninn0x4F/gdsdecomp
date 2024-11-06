@@ -1,4 +1,4 @@
-name: Build Editor and Standalone
+name: Build Editor and Standalone 
 on:
   push:
     paths:
